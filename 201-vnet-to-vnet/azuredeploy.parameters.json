@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location1": {
-            "value": "North Europe"
+            "value": "South Central US"
         },
         "location2": {
             "value": "East US"
